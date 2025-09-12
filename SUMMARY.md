@@ -1,6 +1,6 @@
 # Table of contents
 
-* [1. DidimAIStudio 소개](README.md)
+* [1. DidimAIStudio 소개.](README.md)
 * [2. 메뉴별 세부 설명](2./README.md)
   * [2.1 대시보드](2./2.1.md)
   * [2.2 AI 서비스](2./2.2-ai/README.md)
