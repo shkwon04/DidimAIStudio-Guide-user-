@@ -1,4 +1,4 @@
-# 1. DidimAIStudio 소개.
+# 1. DidimAIStudio 소개
 
 ## DidimAIStudio는 무엇인가&#xC694;**?**
 
