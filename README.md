@@ -10,9 +10,8 @@
 
 DidimAIStudio 에서는 다음과 같은 메뉴를 제공합니다.
 
-{% hint style="info" %}
+[!NOTE]
 제공되는 메뉴는 회원에 따라 다를 수 있습니다.
-{% endhint %}
 
 ### **서비스 메뉴**
 
