@@ -6,7 +6,7 @@
 
 또한, 시나리오를 바탕으로 AI가 답변을 생성할 수 있으며, 지식관리 기능을 통해 원하는 페르소나를 지정하여 문서를 업로드하고 요약본을 확인할 수 있습니다.
 
-<figure><img src=".gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 DidimAIStudio 에서는 다음과 같은 메뉴를 제공합니다.
 
