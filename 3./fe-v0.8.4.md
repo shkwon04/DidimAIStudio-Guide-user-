@@ -10,7 +10,7 @@
 
 총 **1개**의 커밋이 포함되었습니다.
 
-- [`36b7317`](https://github.com/didim365/didimAIStudio_Front_Admin/commit/36b73171c670dd52437e47f0907fd7542261bd30) 테스트 - *uiux-ksh*
+- [`bb398b7`](https://github.com/didim365/didimAIStudio_Front_Admin/commit/bb398b73fbf7ec818dd0247d663f50693af607e3) 커밋누적 - *uiux-ksh*
 
 ---
 
