@@ -16,6 +16,7 @@
     * [2.3.3 비밀번호](2./2.3/2.3.3.md)
     * [2.3.4 메모리 관리](2./2.3/2.3.4.md)
 * [3. 릴리스 노트](3..md)
+  * [Release vstaging-0.8.7](3./release-vstaging-0.8.7.md)
   * [INDEXING v0.8.7](3./indexing-v0.8.7.md)
   * [ADMIN-FE v0.8.4](3./admin-fe-v0.8.4.md)
   * [FE v0.8.4](3./fe-v0.8.4.md)
