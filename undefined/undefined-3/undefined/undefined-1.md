@@ -99,4 +99,8 @@
 
 * 예: `didim365/mcp-web-search:latest`
 * Docker 이미지 주소를 입력합니다.
-* 컨테이너 기반 배포 시 사용됩니다.
+* 컨테이너 기반 배포 시 사용됩니다.\
+  \
+  \
+  사용자 화면 \
+  ![](<../../../.gitbook/assets/image (368).png>)

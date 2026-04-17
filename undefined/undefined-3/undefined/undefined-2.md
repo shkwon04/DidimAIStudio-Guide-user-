@@ -85,3 +85,7 @@
 항상 실용적이고 명확하게 답변하세요.
 </INSTRUCTIONS>
 ```
+
+사용자 화면&#x20;
+
+<figure><img src="../../../.gitbook/assets/image (387).png" alt=""><figcaption></figcaption></figure>
