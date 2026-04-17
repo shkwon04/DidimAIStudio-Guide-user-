@@ -114,3 +114,9 @@
 
 * 예: 0.00003
 * 출력 토큰 1개당 비용을 설정합니다.
+
+&#x20;
+
+관리자에서 모델 생성 성공시 사용자 화면에 템플릿이 추가됩니다.
+
+<figure><img src="../../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
